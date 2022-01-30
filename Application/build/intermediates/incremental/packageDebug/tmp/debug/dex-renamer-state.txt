@@ -1,0 +1,4 @@
+#Sun Jan 30 20:42:11 CET 2022
+base.0=D\:\\enable\\KineticDevice_BLE_Controller\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

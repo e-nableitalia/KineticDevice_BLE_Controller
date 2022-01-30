@@ -1,0 +1,21 @@
+com/example/android/enablekinetic/BluetoothLeService.java
+ com.example.android.enablekinetic.BluetoothLeService
+ com.example.android.enablekinetic.BluetoothLeService$1
+ com.example.android.enablekinetic.BluetoothLeService$LocalBinder
+com/example/android/enablekinetic/DeviceControlActivity.java
+ com.example.android.enablekinetic.DeviceControlActivity
+ com.example.android.enablekinetic.DeviceControlActivity$1
+ com.example.android.enablekinetic.DeviceControlActivity$2
+ com.example.android.enablekinetic.DeviceControlActivity$3
+ com.example.android.enablekinetic.DeviceControlActivity$4
+com/example/android/enablekinetic/BuildConfig.java
+ com.example.android.enablekinetic.BuildConfig
+com/example/android/enablekinetic/DeviceScanActivity.java
+ com.example.android.enablekinetic.DeviceScanActivity
+ com.example.android.enablekinetic.DeviceScanActivity$1
+ com.example.android.enablekinetic.DeviceScanActivity$2
+ com.example.android.enablekinetic.DeviceScanActivity$2$1
+ com.example.android.enablekinetic.DeviceScanActivity$LeDeviceListAdapter
+ com.example.android.enablekinetic.DeviceScanActivity$ViewHolder
+com/example/android/enablekinetic/SampleGattAttributes.java
+ com.example.android.enablekinetic.SampleGattAttributes
